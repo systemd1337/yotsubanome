@@ -1,4 +1,6 @@
 <?php
+
+/* updated version of yotsubanome
 /*＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊
 　　　　四葉の芽画像掲示板
 
