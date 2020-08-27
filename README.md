@@ -1,6 +1,6 @@
 # yotsubanome +
 ## Credit
-* sparky4 orginal owner of yotubanome. orginal code has not been updated since 2009
+* sparky4 【スパーキー（④ ＾ヮ＾）】⚡◆FCr.DTJy2k◆◆/ODv/gdbGrBJVTTi orginal owner of yotubanome. orginal code has not been updated since 2009
 * maki updating the yotsubanome code and adding more features to it.
 
 
