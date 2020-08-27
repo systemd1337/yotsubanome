@@ -32,6 +32,7 @@ install mysql after that create the database
     777 - /cache/
     777 - /src/
     777 - /thumb/
+    777- /yotsubanome/
     
     installation is ready
     
