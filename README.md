@@ -1,8 +1,10 @@
 # yotsubanome +
-credits sparky4 orginal owner of yotubanome.
-maki updating the yotsubanome code and adding more features to it.
+## Credit
+* sparky4 orginal owner of yotubanome. orginal code has not been updated since 2009
+* maki updating the yotsubanome code and adding more features to it.
 
-# How to install yotubanome
+
+# How to install yotubanome +
 
 PHP >= 5.2.x (PHP 7 have not tested it yet)
 
@@ -24,14 +26,14 @@ install mysql after that create the database
     
     define("CONNECTION_STRING", 'mysql://imageboard:root@localhost/yotsubanome/img_loog/'); // line 140 edit put this
     
-    # privileges to directorys 
+    privileges to directorys 
     
     chmod 777 
     777 - /cache/
     777 - /src/
     777 - /thumb/
     
-    # installation is ready
+    installation is ready
     
     hit yotubanome.php 
     
