@@ -2,7 +2,7 @@
 credits sparky4 orginal owner of yotubanome.
 maki updating the yotsubanome code and adding more features to it.
 
-#How to install yotubanome
+# How to install yotubanome
 
 PHP >= 5.2.x (PHP 7 have not tested it yet)
 
@@ -13,7 +13,6 @@ example: cd /var/www/html git clone https://github.com/maki64/yotsubanome/
 install mysql after that create the database
 
    ```
-    
     $ mysql -u root -p
     mysql > CREATE USER 'root'@'localhost' IDENTIFIED BY 'password';
     mysql > CREATE DATABASE imageboard;
@@ -32,7 +31,7 @@ install mysql after that create the database
     777 - /src/
     777 - /thumb/
     
-    #installation is ready
+    # installation is ready
     
     hit yotubanome.php 
     
